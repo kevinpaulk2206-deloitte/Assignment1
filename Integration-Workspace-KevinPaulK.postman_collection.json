@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "c3db3684-8ab7-465c-a880-1833ed60e50d",
+		"name": "Integration-Workspace-KevinPaulK",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POSTReq",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
